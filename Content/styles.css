@@ -1,0 +1,11 @@
+body{
+background-color:lightgrey;
+}
+video{
+	width:100%; 
+	height:auto;
+}
+ul.center-list{
+	display:table;
+	margin:0;
+}
